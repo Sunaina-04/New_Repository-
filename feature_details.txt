@@ -1,0 +1,2 @@
+This file contains detailed description of new features we plan to implement.
+
