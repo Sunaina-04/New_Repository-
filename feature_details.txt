@@ -1,2 +1,2 @@
 This file contains detailed description of new features we plan to implement.
-
+I updated this after merging the new branch with main branch
