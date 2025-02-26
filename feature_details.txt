@@ -1,1 +1,0 @@
-This is a detatiled description of new features we plan to implement. 
