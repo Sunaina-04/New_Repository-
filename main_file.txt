@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this is a file in main.
-x=3
+x=7
+=======
+this is a file in main
+x=7
+>>>>>>> 82fdfd25c8ab1708d652b63491ce6ce5beb9b450
