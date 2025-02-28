@@ -1,2 +1,2 @@
-This is a file in main. 
+this is a file in main
 x=3
