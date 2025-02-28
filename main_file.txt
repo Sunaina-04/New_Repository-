@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is a file in main.
-x=7
+x=3
 =======
 this is a file in main
-x=7
+x=3
 >>>>>>> 82fdfd25c8ab1708d652b63491ce6ce5beb9b450
+=======
+this is a file in main
+x=3
+>>>>>>> feature-update
